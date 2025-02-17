@@ -1,6 +1,4 @@
-# Event-RSVP-System
-
-# Event RSVP System
+    # Event RSVP System
 
 ## Project Description
 The Event RSVP System is a Laravel-powered application that allows users to view events, RSVP, withdraw RSVPs, and see attendees in real-time using Livewire. The system includes user authentication, dynamic updates, and a clean UI built with TailwindCSS.
@@ -147,5 +145,3 @@ php artisan test
 
 ---
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
